@@ -1,3 +1,3 @@
-module github.com/looplab/fsm
+module github.com/nfer-kamal/fsm
 
 go 1.16
